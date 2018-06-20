@@ -1,0 +1,58 @@
+#div1{
+  color:blue;
+  text-align:center;
+  height: 200px;
+  width: 400px;
+  border:10px;
+  background-color: #b2d9f5;
+  margin: auto;
+  border-radius: 20px;
+}
+#hrs{
+  height: 30px;
+  width: 60px;
+  margin:auto;
+
+
+}
+h1{
+  color: red;
+}
+
+.profileContainer{
+    border-bottom:1px solid red;
+    float:left;
+    width:100%;
+}
+
+.profile{
+  width:5%;
+
+  float:left;
+
+}
+
+.profile img{
+  border-radius: 250px;
+  width:50px;
+  height:50px;
+  margin-top: 10px;
+}
+
+.profileText{
+  width:95%;
+  float:left;
+  padding-top: 10px;
+}
+
+.profileText label:first-child{
+  line-height: 21px;
+  width:100%;
+  float:left
+}
+.profileText label:nth-child(2){
+  width:100;
+  float:left;
+  font-size:15px;
+  color:gray;
+}
